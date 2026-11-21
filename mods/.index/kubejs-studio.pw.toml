@@ -1,0 +1,29 @@
+filename = 'kubejsstudio-neoforge-1.21.1-1.3.0.jar'
+name = 'KubeJS Studio'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'KubeJS Studio 1.3.0 (NeoForge 1.21.1)'
+
+[download]
+hash = 'd10b4b645fbb7b260de8a898a36637b6a89daa20'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9011849
+project-id = 1597398
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '580555'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238086'
+type = 'REQUIRED'

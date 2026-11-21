@@ -1,0 +1,25 @@
+filename = 'Luminous Overworld V1.5.52 -NeoForge 1.21.1.jar'
+name = 'LUMINOUS: OVERWORLD'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Luminous: Overworld V1.5.52 -NeoForge 1.21.1'
+
+[download]
+hash = '512e4ddc5f22707aa4c9a22281873255ade84d84'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8163087
+project-id = 909107
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1078066'
+type = 'OPTIONAL'

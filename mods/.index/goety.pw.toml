@@ -1,0 +1,25 @@
+filename = 'goety-3.2.3.jar'
+name = 'Goety - The Dark Arts'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Goety - 3.2.3'
+
+[download]
+hash = '607dbe55a0aaca21e6632abdf487845a228a4f48'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9668015
+project-id = 586095
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306770'
+type = 'REQUIRED'

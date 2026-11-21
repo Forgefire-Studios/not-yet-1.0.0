@@ -1,0 +1,25 @@
+filename = 'kube_jei-2.0.0.jar'
+name = 'KubeJEI'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.0 for 1.21.1 neoforge'
+
+[download]
+hash = '9dfc083f5fe08156b139efea11d4909d6456a6b2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8602010
+project-id = 1109581
+
+[[x-prismlauncher-dependencies]]
+addonId = '238086'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '956446'
+type = 'OPTIONAL'

@@ -1,0 +1,29 @@
+filename = 'NuclearRadiation-1.21.1-1.0.22.jar'
+name = 'Nuclear Radiation'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'NuclearRadiation-1.21.1-1.0.22'
+
+[download]
+hash = '2df57f3b07f3c5c3c05ece42f83f9f5c79a580ee'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9564623
+project-id = 1148833
+
+[[x-prismlauncher-dependencies]]
+addonId = '1523268'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '840010'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '318646'
+type = 'OPTIONAL'

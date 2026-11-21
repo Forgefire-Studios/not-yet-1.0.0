@@ -1,0 +1,91 @@
+#Which Flowline defaults this file has been upgraded to. Flowline sets it; do not edit.
+# Default: 0
+# Range: > 0
+configVersion = 1
+
+#Amount moved per operation by an extracting side, before Stack upgrades.
+[amounts]
+	#Items per operation without Stack upgrades.
+	# Default: 32
+	# Range: 1 ~ 4096
+	itemsPerOperation = 32
+	#Millibuckets per operation without Stack upgrades (1000 = one bucket).
+	# Default: 2000
+	# Range: 1 ~ 1000000
+	fluidPerOperation = 2000
+	#FE per tick an extracting side moves without Stack upgrades. Energy pipes work every tick while
+	#they have something to move, like a cable; universal pipes move the ticks since their last
+	#operation at once. The default is five times a basic Mekanism cable (3200 FE/t).
+	# Default: 16000
+	# Range: 1 ~ 100000000
+	energyPerTick = 16000
+	#Millibuckets of Mekanism chemicals per operation without Stack upgrades (chemical pipe, only
+	#with Mekanism installed).
+	# Default: 3000
+	# Range: 1 ~ 1000000
+	chemicalPerOperation = 3000
+	#Multiplier on energyPerTick, indexed by the number of Stack upgrades (Knozy counts as one).
+	#Entry 0 is used without upgrades; the last entry is used for any higher count. The default
+	#gives 16000, 64000, 256000, 1024000, 2048000, 4096000 and 16384000 FE/t.
+	stackMultipliers = [1, 4, 16, 64, 128, 256, 1024]
+	#Multiplier on itemsPerOperation, indexed by the number of Stack upgrades (Knozy counts as one).
+	#The default doubles per upgrade: 32, 64, 128, 256, 512, 1024, 2048 items per operation.
+	itemStackMultipliers = [1, 2, 4, 8, 16, 32, 64]
+	#Multiplier on fluidPerOperation, indexed by the number of Stack upgrades (Knozy counts as one).
+	#The default doubles per upgrade: 2, 4, 8 ... 128 buckets per operation.
+	fluidStackMultipliers = [1, 2, 4, 8, 16, 32, 64]
+	#Multiplier on chemicalPerOperation, indexed by the number of Stack upgrades (Knozy counts as one).
+	#The default doubles per upgrade: 3, 6, 12 ... 192 buckets per operation.
+	chemicalStackMultipliers = [1, 2, 4, 8, 16, 32, 64]
+
+#Adaptive operation interval (ticks). A side starts at startInterval, speeds up by
+#accelerationStep after each operation that moved something (down to minInterval) and backs off
+#exponentially (x idleBackoffFactor) after each one that moved nothing (up to maxIdleInterval).
+#Sides without any target sleep until the pipe network changes.
+[pacing]
+	# Default: 30
+	# Range: 1 ~ 1200
+	startInterval = 30
+	# Default: 5
+	# Range: 1 ~ 1200
+	minInterval = 5
+	# Default: 100
+	# Range: 1 ~ 12000
+	maxIdleInterval = 100
+	#Ticks each Speed upgrade (or Knozy) removes from startInterval.
+	# Default: 4
+	# Range: 0 ~ 1200
+	speedReduction = 4
+	# Default: 2
+	# Range: 0 ~ 1200
+	accelerationStep = 2
+	#Multiplier on the interval after an operation that moved nothing (2 = double it).
+	# Default: 2.0
+	# Range: 1.0 ~ 16.0
+	idleBackoffFactor = 2.0
+
+#Filter entries per side (whitelist or blacklist).
+[filter]
+	#Entries available without Filter upgrades.
+	# Default: 9
+	# Range: 1 ~ 54
+	baseFilterSlots = 9
+	#Entries added by each Filter upgrade (Knozy counts as one).
+	# Default: 9
+	# Range: 0 ~ 54
+	filterSlotsPerUpgrade = 9
+
+#Pipe network scanning.
+[network]
+	#Maximum number of pipes in one cached network graph.
+	# Default: 512
+	# Range: 16 ~ 8192
+	maxNetworkSize = 512
+
+#"Build for me": with a pipe in the off hand, a key (B by default) lays pipes from the block
+#the player looks at back to the player.
+[building]
+	#How far away the looked-at block may be. Paths may be up to three times as long.
+	# Default: 32
+	# Range: 4 ~ 128
+	buildRange = 32

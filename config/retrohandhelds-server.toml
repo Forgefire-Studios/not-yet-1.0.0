@@ -1,0 +1,19 @@
+#Allow playing games on Retro Console blocks. Ejecting cartridges always works.
+enableConsoles = true
+#Allow playing games on Retro Handheld items.
+enableHandhelds = true
+#Let players near a console see the game being played on it (and on TVs next to it).
+#The server only forwards compressed pictures; it never runs games.
+screenSharing = true
+#Pictures per second sent for a shared screen.
+# Default: 10
+# Range: 1 ~ 20
+screenShareFps = 10
+#Players within this many blocks of a console see its shared screen.
+# Default: 32
+# Range: 8 ~ 128
+screenShareRadius = 32
+#Most kilobytes per second one player may share. Anything above is dropped.
+# Default: 96
+# Range: 16 ~ 1024
+screenShareKBps = 96

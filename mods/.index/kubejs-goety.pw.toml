@@ -1,0 +1,25 @@
+filename = 'kubejs_goety-1.1.1+1.21.1.jar'
+name = 'KubeJs Goety'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = 'kubejs_goety-1.1.1+1.21.1.jar'
+
+[download]
+hash = 'c0e33a81afba184ea4642dcab6a8e836948d4297'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9089478
+project-id = 1383998
+
+[[x-prismlauncher-dependencies]]
+addonId = '586095'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238086'
+type = 'REQUIRED'

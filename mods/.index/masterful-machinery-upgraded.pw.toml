@@ -1,0 +1,18 @@
+filename = 'MasterfulMachinery-1.21.1-0.18.1.jar'
+name = 'Masterful Machinery Upgraded'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MasterfulMachinery-1.21.1-0.18.1.jar'
+
+[download]
+hash = '26b3fd456d07c676d9babdd4bd532450e0067c72'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9643052
+project-id = 1643402

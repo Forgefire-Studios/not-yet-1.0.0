@@ -1,0 +1,23 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"ars_nouveau:source_gem"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ars_nouveau:source_gem_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ars_nouveau:ritual_brazier"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ars_nouveau:mycelial_sourcelink"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ars_nouveau:vitalic_sourcelink"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ars_nouveau:relay_deposit"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ars_nouveau:alchemical_sourcelink"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ars_nouveau:imbuement_chamber"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:arcane_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ars_nouveau:archwood_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:arcane_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:liquid_source_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:water_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:water"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ars_nouveau:novice_spell_book"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ars_additions:enchanting_wixie_cauldron"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ars_additions:ender_source_jar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"thaumaturgetinker:ichorium"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"thaumaturgetinker:ichor_pick"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:compass","components":"{\"minecraft:custom_data\":{kubejs_source_stone_compass:\"true\"},\"minecraft:item_name\":\u0027{\"italic\":false,\"text\":\"Source Stone Compass\"}\u0027,\"minecraft:lodestone_tracker\":{target:{dimension:\"ppd:1512182066\",pos:[I;-3,124,5]},tracked:0b},\"minecraft:lore\":[\u0027{\"color\":\"gray\",\"italic\":false,\"text\":\"Right-click to find a nearby Source Stone node\"}\u0027]}"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,18 @@
+filename = 'diorama-0.10.2-neoforge-1.21.1.jar'
+name = 'Diorama'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Diorama 0.10.2 for NeoForge 1.21.1'
+
+[download]
+hash = 'f9a6b1e4827720a4eaf9266212134660a9b9c156'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9650975
+project-id = 1748961

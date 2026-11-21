@@ -1,0 +1,2 @@
+#Whether the one-time Build for Me introduction has already been shown.
+buildForMeHintSeen = false

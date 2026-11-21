@@ -1,0 +1,13 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"voidminers:max_storage_upgrade_t3"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"voidminers:max_storage_upgrade_t1"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"voidminers:max_storage_upgrade_t2"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"voidminers:no_laser_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"voidminers:aurantium"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"voidminers:rubetine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"chipped:alchemy_book"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"avaritia:singularity","components":"{\"avaritia:singularity_id\":\"avaritia:iron\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:compass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ars_nouveau:sourcestone"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

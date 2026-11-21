@@ -1,0 +1,25 @@
+filename = 'AstralSorceryKJS-2101.1.1-NeoForge.jar'
+name = 'KubeJS AstralSorcery'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'AstralSorceryKJS-2101.1.1-NeoForge'
+
+[download]
+hash = '5da7a72df45aca15ba7f6dce05290772f86440b6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9116046
+project-id = 1714080
+
+[[x-prismlauncher-dependencies]]
+addonId = '238086'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '241721'
+type = 'REQUIRED'

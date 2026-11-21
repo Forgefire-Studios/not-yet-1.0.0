@@ -1,0 +1,21 @@
+filename = 'betterblockz-0.2.10-1.21.1-neoforge.jar'
+name = 'BetterBlockZ'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'betterblockz-0.2.10-1.21.1-neoforge.jar'
+
+[download]
+hash = 'c8a69cfd467c212b27a701a4169f9e358d4ce728'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8545060
+project-id = 1361873
+
+[[x-prismlauncher-dependencies]]
+addonId = '841890'
+type = 'OPTIONAL'

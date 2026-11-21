@@ -1,0 +1,11 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"ars_nouveau:sourcestone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"thaumaturge:phial","components":"{\"thaumaturge:aspects\":[{amount:10,aspect:\"thaumaturge:ignis\"}]}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"avaritia:singularity","components":"{\"avaritia:singularity_id\":\"avaritia:netherite\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"avaritia:singularity","components":"{\"avaritia:singularity_id\":\"avaritia:tin\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"avaritia:singularity","components":"{\"avaritia:singularity_id\":\"avaritia:electrum\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"extendedcrafting:singularity","components":"{\"extendedcrafting:singularity_id\":\"extendedcrafting:iron\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"extendedcrafting:singularity","components":"{\"extendedcrafting:singularity_id\":\"extendedcrafting:coal\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"extendedcrafting:singularity","components":"{\"extendedcrafting:singularity_id\":\"extendedcrafting:redstone\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

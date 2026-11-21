@@ -1,0 +1,21 @@
+filename = 'ppd-1.21.1-d.jar'
+name = 'Personal Player Dimensions'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ppd-1.21.1-d.jar'
+
+[download]
+hash = '1da590e1e04e45aa18768af4f0f60c2eadd56604'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6564225
+project-id = 431942
+
+[[x-prismlauncher-dependencies]]
+addonId = '568341'
+type = 'REQUIRED'

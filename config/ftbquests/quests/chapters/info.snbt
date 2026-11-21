@@ -1,0 +1,127 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "info"
+	group: ""
+	id: "0DDCBEBB75A700E7"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "683906A58984109C"
+			size: 2.0d
+			tasks: [{
+				id: "22F998AB4D164507"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			id: "306EB793D10A9E95"
+			rewards: [{
+				id: "2BE408CBFC39256D"
+				item: {
+					components: {
+						"akashictome:is_morphed": 1b
+						"akashictome:tool_content": [
+							{
+								components: {
+									"akashictome:defined_mod": "nuclear_radiation"
+								}
+								count: 1
+								id: "nuclear_radiation:guide_book"
+							}
+							{
+								components: {
+									"akashictome:defined_mod": "justdirethings"
+									"patchouli:book": "justdirethings:justdirethingsbook"
+								}
+								count: 1
+								id: "patchouli:guide_book"
+							}
+							{
+								components: {
+									"akashictome:defined_mod": "ae2"
+								}
+								count: 1
+								id: "ae2:guide"
+							}
+							{
+								components: {
+									"akashictome:defined_mod": "modonomicon"
+									"modonomicon:book_id": "theurgy:the_hermetica"
+								}
+								count: 1
+								id: "modonomicon:modonomicon"
+							}
+							{
+								components: {
+									"akashictome:custom_tome_name": "{\"translate\":\"item.akashictome.tome\"}"
+									"akashictome:defined_mod": "packagedauto"
+									"akashictome:is_morphed": 1b
+									"akashictome:og_display_name": "{\"translate\":\"item.packagedauto.guide\"}"
+									"minecraft:custom_name": "{\"extra\":[\" (\",{\"color\":\"green\",\"text\":\"PackagedAuto Guide\"},\")\"],\"translate\":\"item.akashictome.tome\"}"
+									"patchouli:book": "packagedauto:guide"
+								}
+								count: 1
+								id: "patchouli:guide_book"
+							}
+							{
+								components: {
+									"akashictome:custom_tome_name": "{\"translate\":\"item.akashictome.tome\"}"
+									"akashictome:defined_mod": "ars_nouveau"
+									"akashictome:is_morphed": 1b
+									"akashictome:og_display_name": "{\"translate\":\"item.ars_nouveau.worn_notebook\"}"
+									"minecraft:custom_name": "{\"extra\":[\" (\",{\"color\":\"green\",\"text\":\"Tattered Tome\"},\")\"],\"translate\":\"item.akashictome.tome\"}"
+								}
+								count: 1
+								id: "ars_nouveau:worn_notebook"
+							}
+							{
+								components: {
+									"akashictome:custom_tome_name": "{\"translate\":\"item.akashictome.tome\"}"
+									"akashictome:defined_mod": "actuallyadditions"
+									"akashictome:is_morphed": 1b
+									"akashictome:og_display_name": "{\"translate\":\"item.actuallyadditions.booklet\"}"
+									"minecraft:custom_name": "{\"extra\":[\" (\",{\"color\":\"green\",\"text\":\"Actually Additions Manual (WIP)\"},\")\"],\"translate\":\"item.akashictome.tome\"}"
+								}
+								count: 1
+								id: "actuallyadditions:booklet"
+							}
+						]
+						"minecraft:custom_name": "{\"translate\":\"item.akashictome.tome\"}"
+					}
+					count: 1
+					id: "akashictome:tome"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "17DBE6CC77986A5E"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "790620200ABCF942"
+			tasks: [{
+				id: "656A344EE1CF9CF6"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			id: "135BBA9831CC0F8F"
+			tasks: [{
+				id: "31B986D953F0BA9E"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "darkness"
+	group: "76E74D5528CA5374"
+	id: "250BA07CB6410E8E"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "269764DB198CECE9"
+			rewards: [{
+				id: "58DFC2397609C5A0"
+				item: {
+					components: {
+						"sophisticatedcore:number_of_inventory_slots": 27
+						"sophisticatedcore:number_of_upgrade_slots": 1
+						"sophisticatedcore:render_info_tag": {
+							upgradeItems: [{ }]
+						}
+						"sophisticatedcore:storage_uuid": [I;
+							-1536265894
+							-1125496595
+							-2006720753
+							-38432177
+						]
+					}
+					count: 1
+					id: "sophisticatedbackpacks:backpack"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "38B01B137122D354"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			id: "4300413A6CD8005A"
+			tasks: [{
+				id: "1B9F126F2D24EE75"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "kubejs:liquid_source"
+				type: "observation"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+	]
+}

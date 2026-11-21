@@ -1,0 +1,224 @@
+[resources]
+	#Resource used by Goety glyph triggers. Native Goety and other Ars glyphs retain their own rules.
+	#Allowed Values: SOUL_ENERGY, ARS_MANA
+	source = "SOUL_ENERGY"
+	#Additional trigger cost per Burning augment, before native soul discounts. Uses the selected resource.
+	# Default: 5
+	# Range: 0 ~ 1000000
+	burningCostPerUnit = 5
+	#Additional trigger cost per Extension augment, before native soul discounts.
+	# Default: 5
+	# Range: 0 ~ 1000000
+	extensionCostPerUnit = 5
+	#Additional trigger cost for Life Absorb, before native soul discounts.
+	# Default: 5
+	# Range: 0 ~ 1000000
+	lifeAbsorbCost = 5
+	#Additional trigger cost per Soul Eater augment, before native soul discounts.
+	# Default: 5
+	# Range: 0 ~ 1000000
+	soulEaterCostPerUnit = 5
+
+[chanting]
+	#Native Goety preparation on active Ars recipes containing Goety glyphs. Mixed casts prepare once via Conflux.
+	#Includes native casting-speed/gear adjustments. Charging focuses contribute castUp, not item-use lifetime.
+	#Does not reproduce hold-to-charge, magazine cadence or charge-dependent strength.
+	#False restores immediate casting. Hits, Orbit/Echo and passive triggers never re-chant.
+	enabled = true
+	#Apply native-style player movement limits during Conflux preparations containing Goety glyphs.
+	#Uses Goety fullStopCast: stop movement/jumping when enabled, otherwise 20% walking speed.
+	#Does not affect pure Ars recipes, passengers or native Goety casting.
+	movementRestrictions = true
+
+[cooldowns]
+	#Native focus cooldowns shared with Goety wands and other Ars recipes. Includes native cooldown reduction.
+	#Check before preparation and again on release. An acknowledged release starts each distinct focus cooldown once.
+	#Creative bypasses existing cooldowns and adds none unless creativeCooldown is enabled; resources remain free.
+	#Existing projectiles and repeated triggers continue; custom charge/stop-based cooldown lifecycles are not reproduced.
+	#Automatic devices, passive effects and third-party direct resolvers are unaffected unless explicitly integrated.
+	enabled = true
+	#Apply bridge focus cooldowns in creative mode. False bypasses both checks and writes.
+	#True restores the original Goety creative cooldown behavior.
+	creativeCooldown = false
+
+[channels]
+	#Finite base lifetime in ticks for supported held-channel spells whose native duration is infinite (zero).
+	#Used by Corrupted Beam, Water Jet, Warding, Flying, Telekinesis and Burrowing when their native duration is zero. Positive native durations retain their own value. Ars duration augments scale this base.
+	#This does not change native Goety wand casting.
+	# Default: 200
+	# Range: 1 ~ 72000
+	unboundedDurationTicks = 200
+
+[bossAbilities]
+	#Cap the additional native percentage health loss of bridge-created Death Arrows. Native arrows and equipment qualifications are unchanged.
+	capDeathArrowPercentage = true
+	#Maximum additional health loss per qualified Death Arrow hit, before ordinary healing events.
+	# Default: 20.0
+	# Range: 0.0 ~ 1000000.0
+	deathArrowPercentageCap = 20.0
+
+	[abilities.snareling_shot]
+		#Base preparation in ticks; Goety casting-speed reductions apply.
+		# Default: 20
+		# Range: 0 ~ 72000
+		preparationTicks = 20
+		#Base cooldown in ticks; Goety cooldown reductions apply. This ability has no native focus.
+		# Default: 60
+		# Range: 0 ~ 72000
+		cooldownTicks = 60
+
+	[abilities.snareling_trap]
+		#Base preparation in ticks; Goety casting-speed reductions apply.
+		# Default: 20
+		# Range: 0 ~ 72000
+		preparationTicks = 20
+		#Base cooldown in ticks; Goety cooldown reductions apply. This ability has no native focus.
+		# Default: 100
+		# Range: 0 ~ 72000
+		cooldownTicks = 100
+
+	[abilities.snap_fungus]
+		#Base preparation in ticks; Goety casting-speed reductions apply.
+		# Default: 20
+		# Range: 0 ~ 72000
+		preparationTicks = 20
+		#Base cooldown in ticks; Goety cooldown reductions apply. This ability has no native focus.
+		# Default: 100
+		# Range: 0 ~ 72000
+		cooldownTicks = 100
+
+	[abilities.blast_fungus]
+		#Base preparation in ticks; Goety casting-speed reductions apply.
+		# Default: 20
+		# Range: 0 ~ 72000
+		preparationTicks = 20
+		#Base cooldown in ticks; Goety cooldown reductions apply. This ability has no native focus.
+		# Default: 100
+		# Range: 0 ~ 72000
+		cooldownTicks = 100
+
+	[abilities.berserk_fungus]
+		#Base preparation in ticks; Goety casting-speed reductions apply.
+		# Default: 20
+		# Range: 0 ~ 72000
+		preparationTicks = 20
+		#Base cooldown in ticks; Goety cooldown reductions apply. This ability has no native focus.
+		# Default: 100
+		# Range: 0 ~ 72000
+		cooldownTicks = 100
+
+	[abilities.berserk_cloud]
+		#Base preparation in ticks; Goety casting-speed reductions apply.
+		# Default: 30
+		# Range: 0 ~ 72000
+		preparationTicks = 30
+		#Base cooldown in ticks; Goety cooldown reductions apply. This ability has no native focus.
+		# Default: 160
+		# Range: 0 ~ 72000
+		cooldownTicks = 160
+
+	[abilities.bone_pull]
+		#Base preparation in ticks; Goety casting-speed reductions apply.
+		# Default: 30
+		# Range: 0 ~ 72000
+		preparationTicks = 30
+		#Base cooldown in ticks; Goety cooldown reductions apply. This ability has no native focus.
+		# Default: 160
+		# Range: 0 ~ 72000
+		cooldownTicks = 160
+
+	[abilities.leaf_shell]
+		#Base preparation in ticks; Goety casting-speed reductions apply.
+		# Default: 60
+		# Range: 0 ~ 72000
+		preparationTicks = 60
+		#Base cooldown in ticks; Goety cooldown reductions apply. This ability has no native focus.
+		# Default: 600
+		# Range: 0 ~ 72000
+		cooldownTicks = 600
+
+	[abilities.thorn_trap]
+		#Base preparation in ticks; Goety casting-speed reductions apply.
+		# Default: 40
+		# Range: 0 ~ 72000
+		preparationTicks = 40
+		#Base cooldown in ticks; Goety cooldown reductions apply. This ability has no native focus.
+		# Default: 400
+		# Range: 0 ~ 72000
+		cooldownTicks = 400
+
+	[abilities.transpose]
+		#Base preparation in ticks; Goety casting-speed reductions apply.
+		# Default: 60
+		# Range: 0 ~ 72000
+		preparationTicks = 60
+		#Base cooldown in ticks; Goety cooldown reductions apply. This ability has no native focus.
+		# Default: 400
+		# Range: 0 ~ 72000
+		cooldownTicks = 400
+
+	[abilities.corrosion]
+		#Base preparation in ticks; Goety casting-speed reductions apply.
+		# Default: 80
+		# Range: 0 ~ 72000
+		preparationTicks = 80
+		#Base cooldown in ticks; Goety cooldown reductions apply. This ability has no native focus.
+		# Default: 600
+		# Range: 0 ~ 72000
+		cooldownTicks = 600
+
+	[abilities.hell_cloud]
+		#Base preparation in ticks; Goety casting-speed reductions apply.
+		# Default: 40
+		# Range: 0 ~ 72000
+		preparationTicks = 40
+		#Base cooldown in ticks; Goety cooldown reductions apply. This ability has no native focus.
+		# Default: 300
+		# Range: 0 ~ 72000
+		cooldownTicks = 300
+
+	[abilities.void_lightning_trap]
+		#Base preparation in ticks; Goety casting-speed reductions apply.
+		# Default: 30
+		# Range: 0 ~ 72000
+		preparationTicks = 30
+		#Base cooldown in ticks; Goety cooldown reductions apply. This ability has no native focus.
+		# Default: 100
+		# Range: 0 ~ 72000
+		cooldownTicks = 100
+
+	[abilities.ill_bomb]
+		#Base preparation in ticks; Goety casting-speed reductions apply.
+		# Default: 20
+		# Range: 0 ~ 72000
+		preparationTicks = 20
+		#Base cooldown in ticks; Goety cooldown reductions apply. This ability has no native focus.
+		# Default: 60
+		# Range: 0 ~ 72000
+		cooldownTicks = 60
+
+	[abilities.death_arrow]
+		#Base preparation in ticks; Goety casting-speed reductions apply.
+		# Default: 20
+		# Range: 0 ~ 72000
+		preparationTicks = 20
+		#Base cooldown in ticks; Goety cooldown reductions apply. This ability has no native focus.
+		# Default: 40
+		# Range: 0 ~ 72000
+		cooldownTicks = 40
+
+	[abilities.hysteria]
+		#Base preparation in ticks; Goety casting-speed reductions apply.
+		# Default: 30
+		# Range: 0 ~ 72000
+		preparationTicks = 30
+		#Base cooldown in ticks; Goety cooldown reductions apply. This ability has no native focus.
+		# Default: 400
+		# Range: 0 ~ 72000
+		cooldownTicks = 400
+
+[native_self]
+	#Generate self-casting glyphs for addon IFocus items. Native callbacks execute on the real player.
+	enabled = true
+	#Focus item IDs excluded from native self casting.
+	disabledFocuses = []

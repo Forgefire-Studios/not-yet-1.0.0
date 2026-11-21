@@ -1,0 +1,29 @@
+filename = 'Luminous Nether V1.3.4 - NeoForge 1.21.1.jar'
+name = 'LUMINOUS: NETHER'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Luminous: Nether V1.3.4 - NeoForge 1.21.1'
+
+[download]
+hash = 'd70045e9463291dc06498863840e281b751244cd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8995853
+project-id = 1078098
+
+[[x-prismlauncher-dependencies]]
+addonId = '382216'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1078066'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'

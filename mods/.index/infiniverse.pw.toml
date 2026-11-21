@@ -1,0 +1,18 @@
+filename = 'infiniverse-1.21-2.0.1.0.jar'
+name = 'Infiniverse'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'infiniverse-1.21-2.0.1.0.jar'
+
+[download]
+hash = 'f6b229ff66a5ed0ee0e55c5a2005553ea6136437'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5486311
+project-id = 568341
