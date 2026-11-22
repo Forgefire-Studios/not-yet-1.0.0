@@ -1,0 +1,36 @@
+{
+  "feature": "kubejs:thaumaturge_crystal_node",
+  "placement": [
+    { "type": "minecraft:count", "count": 256 },
+    { "type": "minecraft:in_square" },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": { "above_bottom": 4 },
+        "max_inclusive": { "above_bottom": 120 }
+      }
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          { "type": "minecraft:matching_blocks", "blocks": "minecraft:air" },
+          {
+            "type": "minecraft:any_of",
+            "predicates": [
+              { "type": "minecraft:matching_block_tag", "tag": "minecraft:base_stone_overworld", "offset": [0, 1, 0] },
+              { "type": "minecraft:matching_block_tag", "tag": "minecraft:base_stone_overworld", "offset": [0, -1, 0] },
+              { "type": "minecraft:matching_block_tag", "tag": "minecraft:base_stone_overworld", "offset": [1, 0, 0] },
+              { "type": "minecraft:matching_block_tag", "tag": "minecraft:base_stone_overworld", "offset": [-1, 0, 0] },
+              { "type": "minecraft:matching_block_tag", "tag": "minecraft:base_stone_overworld", "offset": [0, 0, 1] },
+              { "type": "minecraft:matching_block_tag", "tag": "minecraft:base_stone_overworld", "offset": [0, 0, -1] }
+            ]
+          }
+        ]
+      }
+    },
+    { "type": "minecraft:biome" }
+  ]
+}

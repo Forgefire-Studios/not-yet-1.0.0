@@ -1,0 +1,68 @@
+#Head games. Turn off what gets in the way (recording, streaming).
+[hallucinations]
+	#Messages in chat written 'by you'
+	fakeChat = true
+	#Fake 'You died' screens during boss fights
+	fakeDeath = true
+	#Phantom mobs behind you and shadow figures
+	phantoms = true
+	#The floating eye
+	watchingEye = true
+	#Items in the hotbar swapping places
+	hotbarSwap = true
+	#Sounds from the wrong side
+	wrongSounds = true
+	#The interface lies: wrong stack counts, black hearts, items that are not there (never in a fight)
+	interfaceGlitches = true
+
+[interface]
+	#Story lines on screen (true) or in the chat (false). Each player can override it: /madmessages screen|chat. Questions are always on screen.
+	dialogueOnScreen = true
+
+[balance]
+	#Boss health multiplier (First Dreamer, Faceless)
+	# Default: 1.0
+	# Range: 0.25 ~ 5.0
+	bossHealth = 1.0
+	#How fast Depth grows
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	depthGain = 1.0
+	#Animals near deep dreamers become distorted. Bred, leashed, named, tamed and penned animals are never touched.
+	distortedAnimals = true
+	#Multiplier for the chance an animal becomes distorted
+	# Default: 1.0
+	# Range: 0.0 ~ 5.0
+	distortedChance = 1.0
+
+#How often madness bothers you.
+[frequency]
+	#Random fits of madness from warp: migraine, dizziness, hunger, cold sweat, a blow from nothing, darkness
+	afflictions = true
+	#Multiplier for how often those fits come (0.5 = half as often, 0 = never)
+	# Default: 1.0
+	# Range: 0.0 ~ 3.0
+	afflictionChance = 1.0
+	#Night rifts with Crimson Cult raids (the very first one always happens: the story needs it)
+	riftRaids = true
+	#Multiplier for the chance of a raid on a night when one may come (0.5 = half as often, 0 = only the first)
+	# Default: 1.0
+	# Range: 0.0 ~ 3.0
+	riftRaidChance = 1.0
+	#Minimum in-game days between raids (default ~1, after reaching the Underside ~1.8)
+	# Default: 1.0
+	# Range: 0.5 ~ 30.0
+	riftRaidMinDays = 1.0
+
+#Warp from ordinary Thaumaturge play, so the madness can find the player before the addon does.
+[warp]
+	#Completed research gives temporary warp, every fifth gives normal warp (eldritch more)
+	research = true
+	#Infusions may leave warp behind
+	infusion = true
+	#Standing in heavy flux slowly gathers warp
+	flux = true
+	#Holding the Thaumonomicon at night without sleep: the pages whisper
+	nightBook = true
+	#After a lot of research with almost no warp, the first vision comes anyway
+	safetyNet = true

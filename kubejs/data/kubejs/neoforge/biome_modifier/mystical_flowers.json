@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "ppd:sky_island",
+  "features": "kubejs:mystical_flowers",
+  "step": "vegetal_decoration"
+}

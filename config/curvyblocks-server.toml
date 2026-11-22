@@ -1,0 +1,25 @@
+# Default: 64.0
+# Range: 1.0 ~ 256.0
+maxLength = 64.0
+# Default: 32.0
+# Range: 4.0 ~ 128.0
+placementRange = 32.0
+# Default: 1.0
+# Range: 0.1 ~ 64.0
+materialMultiplier = 1.0
+# Default: 256
+# Range: 1 ~ 1024
+maxCurvesPerChunk = 256
+allowBlockOverlap = false
+solidCurves = true
+materialEffects = true
+# Default: 1.15
+# Range: 1.05 ~ 2.0
+branchKnotScale = 1.15
+ownerOnlyRemoval = false
+# Default: 4.0
+# Range: 1.0 ~ 16.0
+autoRouteSearchMargin = 4.0
+# Default: 96
+# Range: 16 ~ 512
+autoRouteMaxCandidates = 96

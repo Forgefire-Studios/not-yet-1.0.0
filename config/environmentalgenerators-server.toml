@@ -1,0 +1,39 @@
+	[tiers.tier_1]
+		#Environmental Generator Tier 1 area. 1 = 3x3x3; 2 = 5x5x5
+		# Default: 1
+		# Range: 0 ~ 16
+		areaSize = 1
+		#Environmental Generator Tier 1 will produce every x tick
+		# Default: 120
+		# Range: > 1
+		generationTickRate = 120
+
+	[tiers.tier_2]
+		#Environmental Generator Tier 2 area. 1 = 3x3x3; 2 = 5x5x5
+		# Default: 2
+		# Range: 0 ~ 16
+		areaSize = 2
+		#Environmental Generator Tier 2 will produce every x tick
+		# Default: 60
+		# Range: > 1
+		generationTickRate = 60
+
+	[tiers.tier_3]
+		#Environmental Generator Tier 3 area. 1 = 3x3x3; 2 = 5x5x5
+		# Default: 3
+		# Range: 0 ~ 16
+		areaSize = 3
+		#Environmental Generator Tier 3 will produce every x tick
+		# Default: 30
+		# Range: > 1
+		generationTickRate = 30
+
+	[tiers.tier_4]
+		#Environmental Generator Tier 4 area. 1 = 3x3x3; 2 = 5x5x5
+		# Default: 4
+		# Range: 0 ~ 16
+		areaSize = 4
+		#Environmental Generator Tier 4 will produce every x tick
+		# Default: 15
+		# Range: > 1
+		generationTickRate = 15

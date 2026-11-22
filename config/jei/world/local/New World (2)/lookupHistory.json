@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"powah:binding_card_dim"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ppd:worldhub"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:compass"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

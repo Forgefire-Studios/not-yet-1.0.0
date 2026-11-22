@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mm:block/absolute_item_port_input"
+    }
+  }
+}

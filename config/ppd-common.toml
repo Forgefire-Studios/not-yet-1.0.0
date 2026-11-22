@@ -1,0 +1,7 @@
+["PPD Common Configs"]
+	#How many blocks within a dimension a player should be allowed to move and build. Does not affect world generation in any way. It is not recommended to lower this below 384. Negative values disable this feature. (Server authoritative.)
+	"Movement Limit Range (Blocks)" = 384
+	#How many seconds from initiating a PPD teleport should a player be delayed. 0 or less disables the delay entirely. (Server authoritative)
+	"Teleport Delay (s)" = 5
+	#Whether or not the players default spawn point should be within their own PPD or not. (Server authoritative)
+	"Default to PPD Spawn" = true

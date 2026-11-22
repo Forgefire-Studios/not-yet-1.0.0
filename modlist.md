@@ -1,0 +1,220 @@
+- [AE2 JEI Integration](https://www.curseforge.com/projects/1074338) [1\.2\.1] by Tamaized, mezz
+- [AE2WTLib](https://www.curseforge.com/projects/459929) [19\.5\.1] by mari\_023, Ridanisaurus
+- [Actually Additions](https://www.curseforge.com/projects/228404) [1\.3\.26] by Ellpeck
+- [Advanced AE](https://www.curseforge.com/projects/1084104) [1\.6\.12\-1\.21\.1] by Pedroksl
+- [AdvancedCoreInfo](https://www.curseforge.com/projects/1661923) [1\.5\.0] by Yanny
+- [AdvancedLootInfo](https://www.curseforge.com/projects/1205426) [2\.5\.0] by Yanny
+- [Akashic Tome](https://www.curseforge.com/projects/250577) [1\.8\-30] by Vazkii, MoreThanHidden, Uraneptus
+- [All The Arcanist Gear](https://www.curseforge.com/projects/1094032) [1\.21\.1\-21\.3\.2] by Jarva
+- [All The Leaks](https://www.curseforge.com/projects/1091339) [1\.1\.16\+1\.21\.1\-neoforge] by Uncandango
+- [AllTheOres](https://www.curseforge.com/projects/405593) [3\.2\.0] by thevortex, whatthedrunk, Satherov
+- [Allthemodium](https://www.curseforge.com/projects/364466) [3\.2\.1] by thevortex, whatthedrunk
+- [AntiBlocksReChiseled](https://www.curseforge.com/projects/715567) [0\.10\.8] by manmaed
+- [Apothic Attributes](https://www.curseforge.com/projects/898963) [2\.11\.0] by Shadows\_of\_Fire
+- [AppleSkin](https://www.curseforge.com/projects/248787) [3\.0\.9\+mc1\.21] by squeek
+- [Applied Energistics 2](https://www.curseforge.com/projects/223794) [19\.2\.20] by Team AppliedEnergistics
+- [Applied Enhancements](https://www.curseforge.com/projects/1665696) [1\.1\.6] by HibikiShino
+- [Applied KubeJS](https://www.curseforge.com/projects/1469724) [1\.0\.0] by Me\!
+- [Applied Oritech](https://www.curseforge.com/projects/1686167) [1\.0\.7\+1\.21\.1] by Jiu\_Qianqi
+- [Applied Thaumaturge](https://www.curseforge.com/projects/1718689) [1\.21\.1\-1\.1\.0\-BETA] by Traverse\_Joe
+- [Architectury](https://www.curseforge.com/projects/419699) [13\.0\.12] by shedaniel
+- [Ars Additions](https://www.curseforge.com/projects/974408) [1\.21\.1\-21\.3\.0] by Jarva
+- [Ars Conflux](https://www.curseforge.com/projects/1737308) [0\.1\.56] by EndXiom
+- [Ars Nouveau](https://www.curseforge.com/projects/401955) [5\.13\.5] by Bailey Hollingsworth
+- [Ars Polymorphia](https://www.curseforge.com/projects/1197614) [1\.0\.4] by Qther
+- [Astral Sorcery](https://www.curseforge.com/projects/241721) [2\.0\.3] by HellFirePvP
+- [Astral Sorcery KubeJS Addon](https://www.curseforge.com/projects/1714080) [2101\.1\.1] by NadienDev
+- [Athena](https://www.curseforge.com/projects/841890) [4\.0\.6] by ThatGravyBoat
+- [AttributeFix](https://www.curseforge.com/projects/280510) [21\.1\.3] by Darkhax
+- [AzureLib](https://www.curseforge.com/projects/817423) [3\.2\.8] by AzureDoom, Bvanseg, DerToaster, ZigyTheBird, Gecko, Eliot, Chappie, Tslat
+- [Backup Manager](https://www.curseforge.com/projects/1005239) [1\.0\.2] by brandon3055, CreeperHost\!
+- [BaguetteLib](https://www.curseforge.com/projects/1264423) [2\.0\.7] by Leclowndu93150
+- [Balm](https://www.curseforge.com/projects/531761) [21\.0\.67] by BlayTheNinth
+- [Baubley Heart Canisters](https://www.curseforge.com/projects/282947) [1\.21\.1\-1\.6\.0] by Traverse\_Joe
+- [Better Advanced Tooltips](https://www.curseforge.com/projects/1637623) [2101\.1\.0\-build\.5] by latvian\.dev
+- [BetterBlockZ](https://www.curseforge.com/projects/1361873) [0\.2\.10\-1\.21\.1\-neoforge] by riciJak
+- [Blueprint](https://www.curseforge.com/projects/382216) [8\.2\.0] by Team Abnormals
+- [Bookshelf](https://www.curseforge.com/projects/228525) [21\.1\.81] by Darkhax
+- [Botania Revived](https://www.curseforge.com/projects/1725641) [2\.0\.2] by VelronDevs,Vazkii, wiiv, williewillus, dylan4ever, Hubry, Alwinfy, artemisSystem, Falkory220, Wormbo,
+- [Camol](https://www.curseforge.com/projects/1214396) [1\.21\.1\-0\.4\.0] by LobsterJonn
+- [CelesTech](https://www.curseforge.com/projects/1797008) [0\.319] by crist
+- [Certain Questing Additions](https://www.curseforge.com/projects/1372051) [1\.2\.0\.5] by HollowHorizon
+- [Chipped](https://www.curseforge.com/projects/456956) [4\.0\.2] by Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat
+- [Chisel](https://www.curseforge.com/projects/971089) [1\.3\.9\-1\.21\.1] by zSemper, Chisel Developer
+- [Chisel Reborn](https://www.curseforge.com/projects/551763) [2\.0\.1\+mc1\.21\.1]
+- [Clean Swing](https://www.curseforge.com/projects/915308) [1\.10] by Raycoms
+- [Cloth Config v15 API](https://www.curseforge.com/projects/348521) [15\.0\.140] by shedaniel
+- [Cognition](https://www.curseforge.com/projects/579484) [2\.4\.13] by Cyanog3n
+- [Configured](https://www.curseforge.com/projects/457570) [2\.6\.3] by MrCrayfish
+- [Construction Sticks](https://www.curseforge.com/projects/1156098) [1\.5\.0] by Mrbysco, ShyNieke
+- [Controlling](https://www.curseforge.com/projects/250398) [19\.0\.5] by Jaredlll08
+- [CorgiLib](https://www.curseforge.com/projects/693313) [5\.0\.0\.10] by Corgi Taco
+- [Corpse](https://www.curseforge.com/projects/316582) [1\.21\.1\-1\.1\.22] by Max Henkel
+- [Corpse Curios Compatibility](https://www.curseforge.com/projects/1138130) [4\.2\.1] by Leclowndu93150
+- [Crafting Tweaks](https://www.curseforge.com/projects/233071) [21\.1\.11] by BlayTheNinth
+- [Cryonic Config](https://www.curseforge.com/projects/1208896) [1\.0\.0\+mc1\.21\.11] by Slainlight
+- [Cucumber Library](https://www.curseforge.com/projects/272335) [8\.0\.16] by BlakeBr0
+- [Curios API](https://www.curseforge.com/projects/309927) [9\.5\.1\+1\.21\.1] by C4
+- [Curvy Blocks](https://www.curseforge.com/projects/1712616) [1\.0\.0] by LirxOwO
+- [Curvy Pipes](https://www.curseforge.com/projects/1151126) [1\.15\.10] by cyb0124
+- [Custom Portal API ReForged](https://www.curseforge.com/projects/902717) [1\.2\.2] by AzureDoom, kyrptonaught, Waterpicker, Mysticpasta1
+- [Customizable Player Spawn](https://www.curseforge.com/projects/1532271) [2\.0\.0]
+- [Deeper and Darker](https://www.curseforge.com/projects/659011) [1\.4\.1] by Kyanite Team
+- [DimStorage](https://www.curseforge.com/projects/353882) [9\.1\.1] by Edivad99
+- [Diorama](https://www.curseforge.com/projects/1748961) [0\.10\.2\+neoforge\-1\.21\.1] by Dara Adedeji
+- [Easy Mob Spawn Control](https://www.curseforge.com/projects/1489509) [1\.7\.4] by Catomon
+- [EdivadLib](https://www.curseforge.com/projects/638508) [3\.0\.0] by Edivad99
+- [Embeddium](https://www.curseforge.com/projects/908741) [1\.0\.15\+mc1\.21\.1] by embeddedt
+- [EntityCulling](https://www.curseforge.com/projects/448233) [1\.12\.1] by tr7zw
+- Environmental Generators [0\.0\.1] by Minimaxi
+- [Ethecore](https://www.curseforge.com/projects/1531354) [0\.1\.2] by mralxart\_
+- [Etheria](https://www.curseforge.com/projects/1100499) [0\.4\.2] by MrAlxart\_
+- [Euphoria Patcher](https://euphoriapatches.com) [1\.11\.1\-r5\.10\-neoforge] by SpacEagle17
+- [Exolith](https://www.curseforge.com/projects/1546764) [0\.1\.4] by mralxart\_
+- [Explorer's Compass Enhance](https://www.curseforge.com/projects/1649198) [1\.21\.1\-neoforge\-2\.0\.01] by ChaosTheDude,xinian
+- [Extended Crafting](https://www.curseforge.com/projects/268387) [7\.0\.9] by BlakeBr0
+- [Extreme Sound Muffler](https://www.curseforge.com/projects/363363) [3\.57] by LeoBeliik
+- [FTB Backups 2](https://www.curseforge.com/projects/622737) [1\.0\.28] by CreeperHost
+- [FTB Chunks](https://www.curseforge.com/projects/314906) [2101\.1\.24] by FTB Team
+- [FTB Essentials](https://www.curseforge.com/projects/410811) [2101\.1\.10] by FTB Team
+- [FTB Filter System](https://www.curseforge.com/projects/943925) [21\.1\.4] by FTB Team
+- [FTB Library](https://www.curseforge.com/projects/404465) [2101\.1\.40] by FTB Team
+- [FTB Quests](https://www.curseforge.com/projects/289412) [2101\.1\.39] by FTB Team
+- [FTB Teams](https://www.curseforge.com/projects/404468) [2101\.1\.12] by FTB Team
+- [FTB Ultimine](https://www.curseforge.com/projects/386134) [2101\.1\.15] by FTB Team
+- [FTB XMod Compat](https://www.curseforge.com/projects/889915) [21\.1\.14] by FTB Team
+- [Factory Blocks](https://www.curseforge.com/projects/640001) [1\.4\.0\+mc1\.21\.1] by slaincow
+- [Fancy Tab Sections](https://www.curseforge.com/projects/1537163) [6\.2\.1\-NEOFORGE\-1\.21\.1]
+- [Fast Paintings](https://www.curseforge.com/projects/883287) [1\.21\-1\.3\.1] by MehVahdJukaar
+- [Fast Suite](https://www.curseforge.com/projects/475117) [6\.0\.7] by Shadows\_of\_Fire
+- [FastBoot](https://www.curseforge.com/projects/1030285) [1\.3\.0] by dnlayu
+- [FastLeafDecay](https://www.curseforge.com/projects/230976) [35] by Olafski
+- [Featurify](https://www.curseforge.com/projects/1569688) [2\.0\.17] by Faboslav
+- [Ferrite Core](https://www.curseforge.com/projects/429235) [7\.0\.3] by malte0811
+- [Flowline](https://www.curseforge.com/projects/1718165) [0\.3\.29\+1\.21\.1] by Knozyy
+- [Flux Networks](https://www.curseforge.com/projects/248020) [8\.0\.0] by Sonar Sonic, BloCamLimb
+- [ForgeEndertech](https://www.curseforge.com/projects/244844) [12\.1\.5\.0] by EnderLanky
+- [FramedBlocks](https://www.curseforge.com/projects/441647) [10\.6\.3] by XFactHD
+- [Friends&Foes](https://www.curseforge.com/projects/602059) [5\.0\.5] by Faboslav
+- [Fuel Goes Here](https://www.curseforge.com/projects/659090) [1\.21\.1\-1\.2\.0] by LobsterJonn
+- [Fusion](https://www.curseforge.com/projects/854949) [1\.3\.16] by SuperMartijn642
+- [Fzzy Config](https://www.curseforge.com/projects/1005914) [0\.7\.7\+fix1\+1\.21\+neoforge] by fzzyhmstrs
+- [Gateways To Eternity](https://www.curseforge.com/projects/417802) [5\.1\.0] by Shadows\_of\_Fire
+- [GatewaysJS](https://www.curseforge.com/projects/1508814) [2\.0\-neoforge]
+- [GeckoLib 4](https://www.curseforge.com/projects/388172) [4\.9\.3] by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
+- [GlitchCore](https://www.curseforge.com/projects/955399) [2\.1\.0\.2] by Adubbz
+- [Glodium](https://www.curseforge.com/projects/957920) [1\.21\-2\.2\-neoforge] by GlodBlock
+- [Goety](https://www.curseforge.com/projects/586095) [3\.2\.3] by Polarice3
+- [Goety & Nouveau](https://www.curseforge.com/projects/1739392) [0\.1\.16] by EndXiom
+- [GuideME](https://www.curseforge.com/projects/1173950) [21\.1\.22] by shartte
+- [Infiniverse](https://www.curseforge.com/projects/568341) [2\.0\.1\.0] by Commoble
+- [Iron Jetpacks](https://www.curseforge.com/projects/284497) [8\.0\.11] by BlakeBr0
+- [JDT KubeJS](https://www.curseforge.com/projects/1595276) [1\.0\.0] by BlueSheep2804
+- [Jade](https://www.curseforge.com/projects/324717) [15\.10\.6\+neoforge] by Snownee
+- [Jade Ars Nouveau Progress](https://www.curseforge.com/projects/1807896) [1\.0]
+- [Just Dire Things](https://www.curseforge.com/projects/1002348) [1\.5\.7] by Direwolf20
+- [Just Enough Items](https://www.curseforge.com/projects/238222) [19\.64\.0\.455] by mezz
+- [Kotlin for Forge](https://www.curseforge.com/projects/351264) [9641139]
+- [KubeJEI](https://www.curseforge.com/projects/1476466) [1\.0\.0] by Miiickey
+- [KubeJEI](https://www.curseforge.com/projects/1109581) [2\.0\.0] by ZZZank
+- [KubeJS](https://www.curseforge.com/projects/238086) [2101\.7\.2\-build\.381] by latvian\.dev
+- [KubeJS Actually Additions](https://www.curseforge.com/projects/1126546) [1\.21\.1\-0\.3\.0] by Almost Reliable
+- [KubeJS Goety](https://www.curseforge.com/projects/1383998) [1\.1\.1] by KubeJS Goety Contributors
+- [KubeJS Oritech](https://www.curseforge.com/projects/1153301) [1\.21\.1\-0\.4\.5] by Almost Reliable
+- [KubeJS Powah](https://www.curseforge.com/projects/838378) [1\.3\.4] by BobVarioa
+- [KubeJS Studio](https://www.curseforge.com/projects/1597398) [1\.3\.0] by TysonTheEmber
+- [KubeThaum](https://www.curseforge.com/projects/1736567) [1\.3\.1] by BMP
+- [Large Ore Deposits](https://www.curseforge.com/projects/318833) [9\.1\.7\.0] by EnderLanky
+- [LibX](https://www.curseforge.com/projects/412525) [1\.21\.1\-6\.0\.15] by ModdingX
+- [Lithostitched](https://www.curseforge.com/projects/936015) [1\.8\.1] by Apollo
+- [Lodestone](https://www.curseforge.com/projects/616457) [1\.8\.2] by Lodestar
+- [LogisticsNetworks](https://www.curseforge.com/projects/1448257) [1\.18\.0] by AlmanX21
+- [LootJS](https://www.curseforge.com/projects/570630) [1\.21\.1\-3\.7\.0] by AlmostReliable
+- [Lootr](https://www.curseforge.com/projects/361276) [1\.21\.1\-1\.11\.38\.127] by Noobanidus
+- [LowDragLib2](https://www.curseforge.com/projects/626676) [2\.2\.46\.a] by KilaBash
+- [Luminous Beasts](https://www.curseforge.com/projects/1089627) [1\.2\.8] by RipleysMods
+- [Luminous Monsters](https://www.curseforge.com/projects/1066090) [1\.3\.0] by RipleysMods
+- [Luminous Nether](https://www.curseforge.com/projects/1078098) [1\.3\.4] by RipleysMods
+- [Luminous: Overworld](https://www.curseforge.com/projects/909107) [1\.5\.5] by RipleysMods
+- [Luminous:Tag](https://www.curseforge.com/projects/1078066) [1\.1] by RipleysMods
+- [Madman's Dreams](https://www.curseforge.com/projects/1783049) [0\.38\.4] by Larik
+- [Majrusz's Progressive Difficulty Continued](https://www.curseforge.com/projects/1670460) [1\.1\.7] by Majrusz \(original creator\), Draupnir \(maintainer\)
+- [Malum](https://www.curseforge.com/projects/484064) [1\.8\.2] by Sammy Semicolon
+- [Masterful Botany](https://www.curseforge.com/projects/1764701) [1\.0\.3] by UnnamedUser12, noeppi\_noeppi, MelanX
+- [Masterful Machinery](https://www.curseforge.com/projects/1643402) [1\.21\.1\-0\.18\.1] by ticticboom, BOLT\_M4G1C, Anomz
+- [MezzConfig](https://www.curseforge.com/projects/1689768) [9527937]
+- [Mobs of Mythology](https://www.curseforge.com/projects/699989) [3\.1\.0] by kyber\-6
+- [ModernFix](https://www.curseforge.com/projects/790626) [5\.27\.27\+mc1\.21\.1] by embeddedt
+- [Modonomicon](https://www.curseforge.com/projects/538392) [1\.123\.1] by Kli Kli
+- [Moonlight Lib](https://www.curseforge.com/projects/499980) [1\.21\.1\-3\.8\.3] by MehVahdJukaar
+- [Mouse Tweaks](https://www.curseforge.com/projects/60089) [2\.26\.1] by Ivan Molodetskikh \(YaLTeR\)
+- [Nature's Compass](https://www.curseforge.com/projects/252848) [1\.21\.1\-3\.4\.0\-neoforge] by ChaosTheDude
+- [NeoAuth](https://www.curseforge.com/projects/1140741) [1\.0\.1] by Mrbysco, Axieum
+- [Not Enough Recipe Book](https://www.curseforge.com/projects/738663) [0\.6\.2\+1\.21\.1] by Shatterbyte
+- [Nuclear Radiation](https://www.curseforge.com/projects/1148833) [1\.0\.22] by igentuman
+- [NuclearCraft: Neoteric](https://www.curseforge.com/projects/840010) [1\.3\.12] by igentuman
+- [ObserverLib](https://www.curseforge.com/projects/316833) [1\.10\.3] by HellFirePvP
+- [OctoLib](https://www.curseforge.com/projects/916747) [0\.6\.3\.2] by OctoStudios
+- [Oh The Biomes We've Gone](https://www.curseforge.com/projects/1070751) [2\.6\.3] by Joseph T\. McQuigg \(JT122406\), AOCAWOL, YaBoiChips, Corgi Taco
+- [Oh The Trees You'll Grow](https://www.curseforge.com/projects/962544) [5\.3\.6] by Corgi Taco
+- [OmniSequence: Transfinite](https://www.curseforge.com/projects/1624558) [21\.3\.0\.2] by HibikiShino
+- [Oritech](https://www.curseforge.com/projects/1030830) [1\.2\.13] by Me\! \- Rearth
+- [PackagedAuto](https://www.curseforge.com/projects/308380) [4\.0\.8\.23] by TheLMiffy1111
+- [PackagedAvaritia:Re](https://www.curseforge.com/projects/308383) [3\.0\.1\.5] by TheLMiffy1111
+- [PackagedExCrafting](https://www.curseforge.com/projects/322861) [4\.0\.0\.11] by TheLMiffy1111
+- [Patchouli](https://www.curseforge.com/projects/306770) [1\.21\.1\-93\-NEOFORGE] by Vazkii
+- [Personal Player Dimensions](https://www.curseforge.com/projects/431942) [1\.21\.1\-d] by Zetal
+- [Placebo](https://www.curseforge.com/projects/283644) [9\.9\.4] by Shadows\_of\_Fire
+- [PolyLib](https://www.curseforge.com/projects/576589) [2100\.1\.0\-build\.183] by CreeperHost
+- [Polymorph](https://www.curseforge.com/projects/388800) [1\.2\.0\+1\.21\.1] by Illusive Soulworks
+- [Polymorphic Energistics](https://www.curseforge.com/projects/941096) [0\.4\.1] by 90
+- [PortalJS](https://www.curseforge.com/projects/1207518) [1\.21\.1\-1\.3\.0] by Wolfieboy09
+- [Potentials](https://www.curseforge.com/projects/1165185) [0\.7\.1] by Fej1Fun
+- [Powah](https://www.curseforge.com/projects/633483) [6\.2\.10] by owmii,Technici4n,shartte
+- [Powah Addon](https://www.curseforge.com/projects/1635715) [1\.0\.4] by WilianTV
+- [PrickleMC](https://www.curseforge.com/projects/1023259) [21\.1\.11] by Darkhax
+- [Re\-Avaritia](https://www.curseforge.com/projects/623969) [1\.4\.4] by cnlimiter, IAFEnvoy, Asek3, MikhailTapio, cu6, NadienDev
+- [Rechiseled](https://www.curseforge.com/projects/558998) [1\.2\.6] by SuperMartijn642
+- [Rechiseled: AE2](https://www.curseforge.com/projects/987534) [1\.1\.0] by Christofmeg
+- [Rechiseled: Chipped](https://www.curseforge.com/projects/1007578) [1\.3] by iwolfking
+- [Reintegrated Chipped](https://www.curseforge.com/projects/1205717) [1\.0\.0] by Apollo
+- [Resourceful Lib](https://www.curseforge.com/projects/570073) [3\.0\.12] by ThatGravyBoat, Epic\_Oreo
+- [Retro Handhelds](https://www.curseforge.com/projects/1751363) [1\.1\.0] by Anomz
+- [Rhino](https://www.curseforge.com/projects/416294) [2101\.2\.8\-build\.91] by latvian\.dev, Mozilla
+- [Royal Variations](https://www.curseforge.com/projects/989611) [2\.0] by Mongoose\_artist, Polarice3
+- [Searchables](https://www.curseforge.com/projects/858542) [1\.0\.2] by Jaredlll08
+- [Serene Seasons](https://www.curseforge.com/projects/291874) [10\.1\.0\.3] by Adubbz, Forstride
+- [Simple Magnets](https://www.curseforge.com/projects/394140) [1\.1\.12\+c] by SuperMartijn642
+- [Simply Swords](https://www.curseforge.com/projects/659887) [1\.70\.2\-1\.21\.1] by Sweenus
+- [Simply Tooltips](https://www.curseforge.com/projects/1475755) [0\.1\.5] by Sweenus
+- [SmartBrainLib](https://www.curseforge.com/projects/661293) [1\.16\.11] by Tslat
+- [Snad](https://www.curseforge.com/projects/241344) [21\.1\.1] by RoBrit
+- [Sophisticated Backpacks](https://www.curseforge.com/projects/422301) [3\.26\.22] by P3pp3rF1y, Ridanisaurus
+- [Sophisticated Core](https://www.curseforge.com/projects/618298) [1\.5\.39] by P3pp3rF1y
+- [Sophisticated Storage](https://www.curseforge.com/projects/619320) [1\.6\.20] by P3pp3rF1y, Ridanisaurus
+- [Sound Physics Remastered](https://www.curseforge.com/projects/535489) [1\.21\.1\-1\.5\.2] by Sonic Ether, vlad2305m, Max Henkel
+- [Starcatcher](https://www.curseforge.com/projects/1357603) [3\.3\.10\-NEOFORGE\-1\.21\.1]
+- [Stellara](https://www.curseforge.com/projects/1548480) [0\.1\.4] by Shatterbyte
+- [Stellaris](https://www.curseforge.com/projects/1036270) [1\.4\.25] by The Stellaris Team
+- [Structurify](https://www.curseforge.com/projects/1087551) [2\.0\.43] by Faboslav
+- [SuperMartijn642's Config Library](https://www.curseforge.com/projects/438332) [1\.1\.8] by SuperMartijn642
+- [SuperMartijn642's Core Lib](https://www.curseforge.com/projects/454372) [1\.1\.26\+b] by SuperMartijn642
+- [TerraBlender](https://www.curseforge.com/projects/940057) [4\.1\.0\.8] by Adubbz
+- [Thaumaturge](https://www.curseforge.com/projects/1628024) [1\.1\.0] by Leclowndu93150, Iglee42, Saereth, Reclipse, DeadSix, Azanor13
+- [Thaumaturge Additions](https://www.curseforge.com/projects/1748112) [1\.2\.1] by Black\_Moss
+- [Thaumaturge Tinker](https://www.curseforge.com/projects/1792741) [1\.1\.3] by kajitsy
+- [Theurgy](https://www.curseforge.com/projects/430636) [1\.80\.0] by Kli Kli
+- [Theurgy KubeJS](https://www.curseforge.com/projects/963206) [1\.6\.0] by Kli Kli
+- [Time In A Bottle](https://www.curseforge.com/projects/895919) [6\.5\.4] by RealMangoRage, MangoRage
+- [Torchmaster](https://www.curseforge.com/projects/254268) [21\.1\.13] by Xalcon
+- [Trash Cans](https://www.curseforge.com/projects/394535) [1\.1\.2] by SuperMartijn642
+- [VoidMiners Remastered Reforked](https://www.curseforge.com/projects/1629146) [1\.6\.11] by MtcLeo05, SrNadien, BOLT\_M4G1C, Minimaxi
+- [Waystones](https://www.curseforge.com/projects/245755) [21\.1\.47] by BlayTheNinth
+- [YUNG's API](https://www.curseforge.com/projects/1015100) [1\.21\.1\-NeoForge\-5\.1\.9] by YUNGNICKYOUNG
+- [YUNG's Better End Island](https://www.curseforge.com/projects/1015127) [1\.21\.1\-NeoForge\-3\.1\.2] by YUNGNICKYOUNG, Acarii
+- [YetAnotherConfigLib](https://www.curseforge.com/projects/667299) [3\.8\.2\+1\.21\.1\-neoforge] by isXander
+- [kubejsarsnouveau](https://www.curseforge.com/projects/833926) [1\.3\.2] by Bob Varioa
+- [legendary\_monsters](https://www.curseforge.com/projects/944035) [1\.21\.1] by $\{mod\_authors\}
+- [spark](https://www.curseforge.com/projects/361579) [1\.10\.124] by Luck
+- [wd's Selling Bin](https://www.curseforge.com/projects/1483881) [1\.6\-NEOFORGE\-1\.21\.1]
+- [wd's Tooltips Library](https://www.curseforge.com/projects/1370245) [3\.0\-NEOFORGE\-1\.21\.1] by wdiscute, externalhost0
