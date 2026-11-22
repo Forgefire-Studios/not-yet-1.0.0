@@ -4,7 +4,7 @@ const $SoundEvents = Java.loadClass('net.minecraft.sounds.SoundEvents')
 
 StartupEvents.registry('fluid', event => {
   event.create('liquid_source')
-    .displayName('Neon Liquid')
+    .displayName('Liquid Source')
     .tint(0xFFFFFF)               // colours come from the textures
     .stillTexture('kubejs:block/liquid_source_still')
     .flowingTexture('kubejs:block/liquid_source_flow')
