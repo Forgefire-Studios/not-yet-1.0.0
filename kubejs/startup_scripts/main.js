@@ -1,1 +1,1 @@
-Platform.mods.kubejs.name = 'Not Yet'
+Platform.mods.kubejs.name = 'Forged in fire'

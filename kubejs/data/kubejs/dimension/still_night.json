@@ -1,0 +1,26 @@
+{
+  "type": "kubejs:still_night",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "kubejs:still_night",
+      "lakes": false,
+      "features": false,
+      "structure_overrides": [],
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 1
+        },
+        {
+          "block": "minecraft:dirt",
+          "height": 64
+        },
+        {
+          "block": "minecraft:grass_block",
+          "height": 1
+        }
+      ]
+    }
+  }
+}
