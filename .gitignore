@@ -1,4 +1,5 @@
 # taken from project infinity 0.1, thanks bolt
+command_history.txt
 .mixin.out
 .vscode
 rhino.local.properties
