@@ -7,7 +7,7 @@
     },
     "barrier": {
       "type": "minecraft:simple_state_provider",
-      "state": { "Name": "minecraft:stone" }
+      "state": { "Name": "ars_nouveau:sourcestone" }
     }
   }
 }
