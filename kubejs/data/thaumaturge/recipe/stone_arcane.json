@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "S": {
+      "tag": "c:stones"
+    },
+    "V": {
+      "tag": "kubejs:vis_crystals"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "SVS",
+    "SSS"
+  ],
+  "result": {
+    "count": 8,
+    "id": "thaumaturge:stone_arcane"
+  }
+}

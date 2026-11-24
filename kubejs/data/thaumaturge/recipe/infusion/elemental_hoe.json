@@ -1,0 +1,42 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "amount": 30,
+      "aspect": "thaumaturge:herba"
+    },
+    {
+      "amount": 30,
+      "aspect": "thaumaturge:ordo"
+    },
+    {
+      "amount": 30,
+      "aspect": "thaumaturge:perditio"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumaturge:thaumium_hoe"
+  },
+  "components": [
+    {
+      "item": "kubejs:vis_crystal_ordo"
+    },
+    {
+      "item": "kubejs:vis_crystal_perditio"
+    },
+    {
+      "tag": "c:nuggets/quartz"
+    },
+    {
+      "tag": "c:planks/greatwood"
+    }
+  ],
+  "instability": 1,
+  "research": {
+    "entry": "thaumaturge:elemental_tools"
+  },
+  "result": {
+    "count": 1,
+    "id": "thaumaturge:elemental_hoe"
+  }
+}

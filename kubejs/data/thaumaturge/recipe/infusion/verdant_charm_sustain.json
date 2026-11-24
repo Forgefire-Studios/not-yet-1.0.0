@@ -1,0 +1,44 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "amount": 80,
+      "aspect": "thaumaturge:desiderium"
+    },
+    {
+      "amount": 80,
+      "aspect": "thaumaturge:aer"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumaturge:verdant_charm"
+  },
+  "catalyst_patch": {
+    "thaumaturge:verdant_type": 2
+  },
+  "components": [
+    {
+      "item": "thaumaturge:triple_meat_treat"
+    },
+    {
+      "type": "neoforge:components",
+      "tag": "kubejs:vis_crystals"
+    },
+    {
+      "type": "neoforge:components",
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_regeneration"
+        }
+      },
+      "items": "minecraft:potion"
+    },
+    {
+      "item": "kubejs:vis_crystal_aer"
+    }
+  ],
+  "instability": 5,
+  "research": {
+    "entry": "thaumaturge:verdant_charms"
+  }
+}

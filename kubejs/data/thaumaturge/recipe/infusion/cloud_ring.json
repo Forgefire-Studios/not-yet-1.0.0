@@ -1,0 +1,28 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "amount": 50,
+      "aspect": "thaumaturge:aer"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumaturge:ring_mundane"
+  },
+  "components": [
+    {
+      "item": "kubejs:vis_crystal_aer"
+    },
+    {
+      "tag": "c:feathers"
+    }
+  ],
+  "instability": 1,
+  "research": {
+    "entry": "thaumaturge:cloud_ring"
+  },
+  "result": {
+    "count": 1,
+    "id": "thaumaturge:cloud_ring"
+  }
+}

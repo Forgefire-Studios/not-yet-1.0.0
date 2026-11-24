@@ -1,0 +1,52 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "amount": 20,
+      "aspect": "thaumaturge:bestia"
+    },
+    {
+      "amount": 15,
+      "aspect": "thaumaturge:lux"
+    },
+    {
+      "amount": 15,
+      "aspect": "thaumaturge:victus"
+    },
+    {
+      "amount": 15,
+      "aspect": "thaumaturge:desiderium"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumaturge:lamp_arcane"
+  },
+  "components": [
+    {
+      "tag": "c:ingots/gold"
+    },
+    {
+      "tag": "c:crops/wheat"
+    },
+    {
+      "item": "kubejs:vis_crystal_ignis"
+    },
+    {
+      "tag": "c:ingots/gold"
+    },
+    {
+      "tag": "c:crops/carrot"
+    },
+    {
+      "item": "kubejs:vis_crystal_ignis"
+    }
+  ],
+  "instability": 4,
+  "research": {
+    "entry": "thaumaturge:lamp_fertility"
+  },
+  "result": {
+    "count": 1,
+    "id": "thaumaturge:lamp_fertility"
+  }
+}

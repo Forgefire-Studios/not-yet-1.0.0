@@ -1,0 +1,48 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "amount": 30,
+      "aspect": "thaumaturge:ignis"
+    },
+    {
+      "amount": 30,
+      "aspect": "thaumaturge:metallum"
+    },
+    {
+      "amount": 30,
+      "aspect": "thaumaturge:sensus"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumaturge:thaumium_pickaxe"
+  },
+  "components": [
+    {
+      "item": "kubejs:vis_crystal_ignis"
+    },
+    {
+      "item": "kubejs:vis_crystal_ignis"
+    },
+    {
+      "tag": "c:nuggets/quartz"
+    },
+    {
+      "tag": "c:planks/greatwood"
+    }
+  ],
+  "instability": 1,
+  "research": {
+    "entry": "thaumaturge:elemental_tools"
+  },
+  "result": {
+    "components": {
+      "thaumaturge:infusion_enchantments": {
+        "refining": 1,
+        "sounding": 2
+      }
+    },
+    "count": 1,
+    "id": "thaumaturge:elemental_pickaxe"
+  }
+}

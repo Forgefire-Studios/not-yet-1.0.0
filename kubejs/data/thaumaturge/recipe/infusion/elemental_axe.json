@@ -1,0 +1,44 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "amount": 60,
+      "aspect": "thaumaturge:aqua"
+    },
+    {
+      "amount": 30,
+      "aspect": "thaumaturge:herba"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumaturge:thaumium_axe"
+  },
+  "components": [
+    {
+      "item": "kubejs:vis_crystal_aqua"
+    },
+    {
+      "item": "kubejs:vis_crystal_aqua"
+    },
+    {
+      "tag": "c:nuggets/quartz"
+    },
+    {
+      "tag": "c:planks/greatwood"
+    }
+  ],
+  "instability": 1,
+  "research": {
+    "entry": "thaumaturge:elemental_tools"
+  },
+  "result": {
+    "components": {
+      "thaumaturge:infusion_enchantments": {
+        "burrowing": 1,
+        "collector": 1
+      }
+    },
+    "count": 1,
+    "id": "thaumaturge:elemental_axe"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "thaumaturge:crucible",
+  "aspects": [
+    {
+      "amount": 2,
+      "aspect": "thaumaturge:ignis"
+    }
+  ],
+  "catalyst": {
+    "tag": "c:nuggets/quartz"
+  },
+  "research": {
+    "entry": "thaumaturge:base_alchemy"
+  },
+  "result": {
+    "count": 1,
+    "id": "kubejs:vis_crystal_ignis"
+  }
+}

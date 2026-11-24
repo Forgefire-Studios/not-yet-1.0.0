@@ -1,0 +1,36 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "amount": 12,
+      "aspect": "thaumaturge:ignis"
+    },
+    {
+      "amount": 6,
+      "aspect": "thaumaturge:praecantatio"
+    },
+    {
+      "amount": 6,
+      "aspect": "thaumaturge:bestia"
+    }
+  ],
+  "catalyst": {
+    "tag": "c:rods/blaze"
+  },
+  "components": [
+    {
+      "item": "thaumaturge:salis_mundus"
+    },
+    {
+      "item": "kubejs:vis_crystal_ignis"
+    }
+  ],
+  "instability": 3,
+  "research": {
+    "entry": "thaumaturge:rod_blaze"
+  },
+  "result": {
+    "count": 1,
+    "id": "thaumaturge:wand_rod_blaze"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "amount": 9,
+      "aspect": "thaumaturge:aer"
+    },
+    {
+      "amount": 9,
+      "aspect": "thaumaturge:ignis"
+    },
+    {
+      "amount": 9,
+      "aspect": "thaumaturge:aqua"
+    },
+    {
+      "amount": 9,
+      "aspect": "thaumaturge:terra"
+    },
+    {
+      "amount": 9,
+      "aspect": "thaumaturge:ordo"
+    },
+    {
+      "amount": 9,
+      "aspect": "thaumaturge:perditio"
+    },
+    {
+      "amount": 9,
+      "aspect": "thaumaturge:praecantatio"
+    }
+  ],
+  "catalyst": {
+    "tag": "thaumaturge:silverwood_logs"
+  },
+  "components": [
+    {
+      "item": "thaumaturge:salis_mundus"
+    },
+    {
+      "item": "kubejs:vis_crystal_aer"
+    },
+    {
+      "item": "kubejs:vis_crystal_ignis"
+    },
+    {
+      "item": "kubejs:vis_crystal_aqua"
+    },
+    {
+      "item": "kubejs:vis_crystal_terra"
+    },
+    {
+      "item": "kubejs:vis_crystal_ordo"
+    },
+    {
+      "item": "kubejs:vis_crystal_perditio"
+    }
+  ],
+  "instability": 5,
+  "research": {
+    "entry": "thaumaturge:rod_silverwood"
+  },
+  "result": {
+    "count": 1,
+    "id": "thaumaturge:wand_rod_silverwood"
+  }
+}

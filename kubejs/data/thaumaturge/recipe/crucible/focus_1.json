@@ -1,0 +1,27 @@
+{
+  "type": "thaumaturge:crucible",
+  "aspects": [
+    {
+      "amount": 20,
+      "aspect": "thaumaturge:vitreus"
+    },
+    {
+      "amount": 10,
+      "aspect": "thaumaturge:praecantatio"
+    },
+    {
+      "amount": 5,
+      "aspect": "thaumaturge:auram"
+    }
+  ],
+  "catalyst": {
+    "item": "kubejs:vis_crystal_ordo"
+  },
+  "research": {
+    "entry": "thaumaturge:unlock_auromancy"
+  },
+  "result": {
+    "count": 1,
+    "id": "thaumaturge:focus_1"
+  }
+}

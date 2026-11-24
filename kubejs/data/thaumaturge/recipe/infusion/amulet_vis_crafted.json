@@ -1,0 +1,48 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "amount": 50,
+      "aspect": "thaumaturge:auram"
+    },
+    {
+      "amount": 100,
+      "aspect": "thaumaturge:potentia"
+    },
+    {
+      "amount": 50,
+      "aspect": "thaumaturge:vacuos"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumaturge:amulet_mundane"
+  },
+  "components": [
+    {
+      "item": "thaumaturge:vis_resonator"
+    },
+    {
+      "item": "kubejs:vis_crystal_aer"
+    },
+    {
+      "item": "kubejs:vis_crystal_ignis"
+    },
+    {
+      "item": "kubejs:vis_crystal_aqua"
+    },
+    {
+      "item": "kubejs:vis_crystal_terra"
+    },
+    {
+      "item": "kubejs:vis_crystal_ordo"
+    }
+  ],
+  "instability": 6,
+  "research": {
+    "entry": "thaumaturge:vis_amulet"
+  },
+  "result": {
+    "count": 1,
+    "id": "thaumaturge:amulet_vis_crafted"
+  }
+}

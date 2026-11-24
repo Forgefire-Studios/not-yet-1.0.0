@@ -1,0 +1,35 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "amount": 10,
+      "aspect": "thaumaturge:aqua"
+    },
+    {
+      "amount": 10,
+      "aspect": "thaumaturge:vitreus"
+    },
+    {
+      "amount": 5,
+      "aspect": "thaumaturge:vinculum"
+    }
+  ],
+  "catalyst": {
+    "item": "kubejs:vis_crystal_aqua"
+  },
+  "components": [
+    {
+      "tag": "c:seeds/wheat"
+    },
+    {
+      "item": "thaumaturge:salis_mundus"
+    }
+  ],
+  "research": {
+    "entry": "thaumaturge:crystal_farmer"
+  },
+  "result": {
+    "count": 1,
+    "id": "kubejs:vis_crystal_aqua"
+  }
+}

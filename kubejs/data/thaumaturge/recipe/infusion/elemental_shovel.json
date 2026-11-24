@@ -1,0 +1,43 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "amount": 60,
+      "aspect": "thaumaturge:terra"
+    },
+    {
+      "amount": 30,
+      "aspect": "thaumaturge:fabrico"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumaturge:thaumium_shovel"
+  },
+  "components": [
+    {
+      "item": "kubejs:vis_crystal_terra"
+    },
+    {
+      "item": "kubejs:vis_crystal_terra"
+    },
+    {
+      "tag": "c:nuggets/quartz"
+    },
+    {
+      "tag": "c:planks/greatwood"
+    }
+  ],
+  "instability": 1,
+  "research": {
+    "entry": "thaumaturge:elemental_tools"
+  },
+  "result": {
+    "components": {
+      "thaumaturge:infusion_enchantments": {
+        "destructive": 1
+      }
+    },
+    "count": 1,
+    "id": "thaumaturge:elemental_shovel"
+  }
+}

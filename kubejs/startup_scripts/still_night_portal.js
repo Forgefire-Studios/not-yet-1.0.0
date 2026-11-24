@@ -5,22 +5,31 @@ const Registries = Java.loadClass('net.minecraft.core.registries.Registries')
 const CustomPortalApiRegistry = Java.loadClass('net.kyrptonaught.customportalapi.CustomPortalApiRegistry')
 
 const block = id => BuiltInRegistries.BLOCK.get(ResourceLocation.parse(id))
-const fluid = id => BuiltInRegistries.FLUID.get(ResourceLocation.parse(id))
-const frame = block('astralsorcery:marble_raw')
 const stillNight = ResourceLocation.parse('kubejs:still_night')
 const returnDimensionKey = 'still_night_portal_return_dimension'
 
-const getLevel = (entity, dimension) => entity.level().getServer().getLevel(
+const getDimensionLocation = level => {
+    const dimensionKey = String(level.dimension)
+    const separator = dimensionKey.indexOf(' / ')
+    const dimensionId = separator >= 0
+        ? dimensionKey.substring(separator + 3, dimensionKey.length - 1)
+        : dimensionKey
+
+    return ResourceLocation.parse(dimensionId)
+}
+
+const getLevel = (entity, dimension) => entity.level.getServer().getLevel(
     ResourceKey.create(Registries.DIMENSION, dimension)
 )
 
 PortalEvents.register(event => {
     event.create()
-        .frameBlock(frame)
-        .lightWithFluid(fluid('astralsorcery:liquid_starlight'))
-        .setDestination(stillNight)
+        .frameBlock('astralsorcery:marble_raw')
+        .lightWithFluid('astralsorcery:liquid_starlight')
+        .setDestination('kubejs:still_night')
         .beforeTeleportation(entity => {
-            const currentDimension = entity.level().dimension().location()
+            const frame = block('astralsorcery:marble_raw')
+            const currentDimension = getDimensionLocation(entity.level)
             const portalLink = CustomPortalApiRegistry.getPortalLinkFromBase(frame)
 
             if (!portalLink) {

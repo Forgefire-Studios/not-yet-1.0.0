@@ -1,0 +1,52 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "amount": 20,
+      "aspect": "thaumaturge:herba"
+    },
+    {
+      "amount": 15,
+      "aspect": "thaumaturge:lux"
+    },
+    {
+      "amount": 15,
+      "aspect": "thaumaturge:victus"
+    },
+    {
+      "amount": 15,
+      "aspect": "thaumaturge:instrumentum"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumaturge:lamp_arcane"
+  },
+  "components": [
+    {
+      "tag": "c:ingots/gold"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "kubejs:vis_crystal_terra"
+    },
+    {
+      "tag": "c:ingots/gold"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "kubejs:vis_crystal_terra"
+    }
+  ],
+  "instability": 4,
+  "research": {
+    "entry": "thaumaturge:lamp_growth"
+  },
+  "result": {
+    "count": 1,
+    "id": "thaumaturge:lamp_growth"
+  }
+}

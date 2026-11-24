@@ -1,0 +1,36 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "amount": 12,
+      "aspect": "thaumaturge:perditio"
+    },
+    {
+      "amount": 6,
+      "aspect": "thaumaturge:praecantatio"
+    },
+    {
+      "amount": 6,
+      "aspect": "thaumaturge:exanimis"
+    }
+  ],
+  "catalyst": {
+    "tag": "c:bones"
+  },
+  "components": [
+    {
+      "item": "thaumaturge:salis_mundus"
+    },
+    {
+      "item": "kubejs:vis_crystal_perditio"
+    }
+  ],
+  "instability": 3,
+  "research": {
+    "entry": "thaumaturge:rod_bone"
+  },
+  "result": {
+    "count": 1,
+    "id": "thaumaturge:wand_rod_bone"
+  }
+}

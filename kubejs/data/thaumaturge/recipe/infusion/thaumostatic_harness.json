@@ -1,0 +1,61 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "amount": 32,
+      "aspect": "thaumaturge:volatus"
+    },
+    {
+      "amount": 32,
+      "aspect": "thaumaturge:potentia"
+    },
+    {
+      "amount": 32,
+      "aspect": "thaumaturge:machina"
+    },
+    {
+      "amount": 16,
+      "aspect": "thaumaturge:motus"
+    }
+  ],
+  "catalyst": {
+    "item": "minecraft:leather_chestplate"
+  },
+  "components": [
+    {
+      "item": "kubejs:vis_crystal_aer"
+    },
+    {
+      "item": "kubejs:vis_crystal_aer"
+    },
+    {
+      "tag": "c:planks/greatwood"
+    },
+    {
+      "tag": "c:planks/greatwood"
+    },
+    {
+      "item": "minecraft:comparator"
+    },
+    {
+      "tag": "c:ingots/gold"
+    },
+    {
+      "tag": "c:ingots/gold"
+    },
+    {
+      "tag": "c:ingots/iron"
+    },
+    {
+      "tag": "c:ingots/iron"
+    }
+  ],
+  "instability": 6,
+  "research": {
+    "entry": "thaumaturge:thaumostatic_harness"
+  },
+  "result": {
+    "count": 1,
+    "id": "thaumaturge:thaumostatic_harness"
+  }
+}

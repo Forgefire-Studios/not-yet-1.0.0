@@ -1,0 +1,47 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "amount": 30,
+      "aspect": "thaumaturge:aer"
+    },
+    {
+      "amount": 30,
+      "aspect": "thaumaturge:aversio"
+    },
+    {
+      "amount": 30,
+      "aspect": "thaumaturge:motus"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumaturge:thaumium_sword"
+  },
+  "components": [
+    {
+      "item": "kubejs:vis_crystal_aer"
+    },
+    {
+      "item": "kubejs:vis_crystal_aer"
+    },
+    {
+      "tag": "c:nuggets/quartz"
+    },
+    {
+      "tag": "c:planks/greatwood"
+    }
+  ],
+  "instability": 1,
+  "research": {
+    "entry": "thaumaturge:elemental_tools"
+  },
+  "result": {
+    "components": {
+      "thaumaturge:infusion_enchantments": {
+        "arcing": 2
+      }
+    },
+    "count": 1,
+    "id": "thaumaturge:elemental_sword"
+  }
+}

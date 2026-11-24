@@ -1,0 +1,48 @@
+{
+  "type": "thaumaturge:arcane_workbench_shaped",
+  "crystals": [
+    {
+      "aspect": "thaumaturge:aqua"
+    },
+    {
+      "amount": 3,
+      "aspect": "thaumaturge:terra"
+    },
+    {
+      "aspect": "thaumaturge:ordo"
+    }
+  ],
+  "key": {
+    "C": {
+      "item": "thaumaturge:alchemical_construct"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "Q": {
+      "item": "thaumaturge:salis_mundus"
+    },
+    "T": {
+      "item": "thaumaturge:tube"
+    },
+    "W": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "IDI",
+    "QCQ",
+    "WTW"
+  ],
+  "research": {
+    "entry": "thaumaturge:essentia_crystalizer"
+  },
+  "result": {
+    "count": 1,
+    "id": "thaumaturge:essentia_crystalizer"
+  },
+  "vis": 125
+}

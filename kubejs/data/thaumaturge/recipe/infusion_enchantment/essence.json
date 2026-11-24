@@ -1,0 +1,28 @@
+{
+  "type": "thaumaturge:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 60,
+      "aspect": "thaumaturge:vitium"
+    },
+    {
+      "amount": 40,
+      "aspect": "thaumaturge:bestia"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:enchanted_book"
+    },
+    {
+      "tag": "kubejs:vis_crystals"
+    }
+  ],
+  "display_catalyst": {
+    "item": "minecraft:golden_sword"
+  },
+  "enchantment": "essence",
+  "research": {
+    "entry": "thaumaturge:infusion_enchantment"
+  }
+}

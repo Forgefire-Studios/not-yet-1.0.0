@@ -1,0 +1,43 @@
+{
+  "type": "thaumaturge:arcane_workbench_shaped",
+  "crystals": [],
+  "key": {
+    "1": {
+      "item": "kubejs:vis_crystal_aer"
+    },
+    "2": {
+      "item": "kubejs:vis_crystal_ignis"
+    },
+    "3": {
+      "item": "kubejs:vis_crystal_aqua"
+    },
+    "4": {
+      "item": "kubejs:vis_crystal_terra"
+    },
+    "5": {
+      "item": "kubejs:vis_crystal_ordo"
+    },
+    "6": {
+      "item": "kubejs:vis_crystal_perditio"
+    },
+    "I": {
+      "tag": "c:ingots/gold"
+    },
+    "S": {
+      "item": "thaumaturge:salis_mundus"
+    }
+  },
+  "pattern": [
+    "123",
+    "ISI",
+    "456"
+  ],
+  "research": {
+    "entry": "thaumaturge:unlock_artifice"
+  },
+  "result": {
+    "count": 1,
+    "id": "thaumaturge:primal_charm"
+  },
+  "vis": 150
+}

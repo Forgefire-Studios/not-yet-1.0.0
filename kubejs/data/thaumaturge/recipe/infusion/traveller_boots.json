@@ -1,0 +1,44 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "amount": 100,
+      "aspect": "thaumaturge:volatus"
+    },
+    {
+      "amount": 100,
+      "aspect": "thaumaturge:motus"
+    }
+  ],
+  "catalyst": {
+    "item": "minecraft:leather_boots"
+  },
+  "components": [
+    {
+      "item": "kubejs:vis_crystal_aer"
+    },
+    {
+      "item": "kubejs:vis_crystal_aer"
+    },
+    {
+      "item": "thaumaturge:fabric"
+    },
+    {
+      "item": "thaumaturge:fabric"
+    },
+    {
+      "tag": "c:feathers"
+    },
+    {
+      "tag": "minecraft:fishes"
+    }
+  ],
+  "instability": 1,
+  "research": {
+    "entry": "thaumaturge:boots_traveller"
+  },
+  "result": {
+    "count": 1,
+    "id": "thaumaturge:traveller_boots"
+  }
+}

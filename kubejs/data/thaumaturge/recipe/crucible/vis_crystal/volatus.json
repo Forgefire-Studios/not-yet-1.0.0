@@ -1,0 +1,19 @@
+{
+  "type": "thaumaturge:crucible",
+  "aspects": [
+    {
+      "amount": 2,
+      "aspect": "thaumaturge:volatus"
+    }
+  ],
+  "catalyst": {
+    "tag": "c:nuggets/quartz"
+  },
+  "research": {
+    "entry": "thaumaturge:base_alchemy"
+  },
+  "result": {
+    "count": 1,
+    "id": "thaumaturge:essentia_crystal"
+  }
+}

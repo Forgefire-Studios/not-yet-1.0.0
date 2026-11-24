@@ -1,0 +1,36 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "amount": 12,
+      "aspect": "thaumaturge:ordo"
+    },
+    {
+      "amount": 6,
+      "aspect": "thaumaturge:praecantatio"
+    },
+    {
+      "amount": 6,
+      "aspect": "thaumaturge:vitreus"
+    }
+  ],
+  "catalyst": {
+    "item": "minecraft:quartz_block"
+  },
+  "components": [
+    {
+      "item": "thaumaturge:salis_mundus"
+    },
+    {
+      "item": "kubejs:vis_crystal_ordo"
+    }
+  ],
+  "instability": 3,
+  "research": {
+    "entry": "thaumaturge:rod_quartz"
+  },
+  "result": {
+    "count": 1,
+    "id": "thaumaturge:wand_rod_quartz"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "amount": 60,
+      "aspect": "thaumaturge:victus"
+    },
+    {
+      "amount": 30,
+      "aspect": "thaumaturge:ordo"
+    },
+    {
+      "amount": 60,
+      "aspect": "thaumaturge:herba"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumaturge:amulet_fancy"
+  },
+  "components": [
+    {
+      "tag": "c:nuggets/quicksilver"
+    },
+    {
+      "type": "neoforge:components",
+      "tag": "kubejs:vis_crystals"
+    },
+    {
+      "tag": "c:buckets/milk"
+    },
+    {
+      "type": "neoforge:components",
+      "tag": "kubejs:vis_crystals"
+    }
+  ],
+  "instability": 5,
+  "research": {
+    "entry": "thaumaturge:verdant_charms"
+  },
+  "result": {
+    "count": 1,
+    "id": "thaumaturge:verdant_charm"
+  }
+}

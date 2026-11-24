@@ -14,10 +14,17 @@ ServerEvents.recipes(event => {
  event,
         '#kubejs:liquid_source',
         [
-        'ars_additions:cracked_sourcestone'
+        'ars_additions:cracked_sourcestone',
+        'kubejs:vis_crystal_aer',
+        'kubejs:vis_crystal_ignis',
+        'kubejs:vis_crystal_aqua',
+        'kubejs:vis_crystal_terra',
+        'kubejs:vis_crystal_ordo',
+        'kubejs:vis_crystal_perditio',
+        'kubejs:vis_crystal_vitium'
         ],
         'ars_nouveau:source_gem',
-        2,
+        1,
         'kubejs:ae2/transform/source_gem'
     );
     AE2Recipes.transformFluid(

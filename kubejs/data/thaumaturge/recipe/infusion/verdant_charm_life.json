@@ -1,0 +1,45 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "amount": 80,
+      "aspect": "thaumaturge:victus"
+    },
+    {
+      "amount": 80,
+      "aspect": "thaumaturge:humanus"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumaturge:verdant_charm"
+  },
+  "catalyst_patch": {
+    "thaumaturge:verdant_type": 1
+  },
+  "components": [
+    {
+      "item": "minecraft:golden_apple"
+    },
+    {
+      "type": "neoforge:components",
+      "tag": "kubejs:vis_crystals"
+    },
+    {
+      "type": "neoforge:components",
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_healing"
+        }
+      },
+      "items": "minecraft:potion"
+    },
+    {
+      "type": "neoforge:components",
+      "tag": "kubejs:vis_crystals"
+    }
+  ],
+  "instability": 5,
+  "research": {
+    "entry": "thaumaturge:verdant_charms"
+  }
+}
